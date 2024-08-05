@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/order-summary-component-using-cube-css-methodology-94B5K_jcGx)
+- Live Site URL: (https://jacobwwarner-order-summary-component.netlify.app/)
 
 ## My process
 
